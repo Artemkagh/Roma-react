@@ -1,7 +1,7 @@
 {
   "name": "hello-world",
   "version": "0.1.0",
-  "homepage": "https://Artemkagh.github.io/Roma-react",
+  "homepage": "https://artemkagh.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
