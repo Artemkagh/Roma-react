@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Roma-react/static/css/main.9ae68ce0.css",
-    "main.js": "/Roma-react/static/js/main.bee29344.js",
+    "main.js": "/Roma-react/static/js/main.683d9bb8.js",
     "static/media/cars.jpg": "/Roma-react/static/media/cars.ffad256c43c3afa91247.jpg",
     "static/media/romchasuccess.jpg": "/Roma-react/static/media/romchasuccess.cebb2a1215545ed5c8f6.jpg",
     "static/media/lvl1.jpg": "/Roma-react/static/media/lvl1.89c9eb21e97be9e2dfdf.jpg",
@@ -13,10 +13,10 @@
     "static/media/romalogo.svg": "/Roma-react/static/media/romalogo.5e3f3904142f6420673d87cb58d01adf.svg",
     "index.html": "/Roma-react/index.html",
     "main.9ae68ce0.css.map": "/Roma-react/static/css/main.9ae68ce0.css.map",
-    "main.bee29344.js.map": "/Roma-react/static/js/main.bee29344.js.map"
+    "main.683d9bb8.js.map": "/Roma-react/static/js/main.683d9bb8.js.map"
   },
   "entrypoints": [
     "static/css/main.9ae68ce0.css",
-    "static/js/main.bee29344.js"
+    "static/js/main.683d9bb8.js"
   ]
 }
