@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Roma-react/static/css/main.9ae68ce0.css",
+    "main.js": "/Roma-react/static/js/main.683d9bb8.js",
+    "static/media/cars.jpg": "/Roma-react/static/media/cars.ffad256c43c3afa91247.jpg",
+    "static/media/romchasuccess.jpg": "/Roma-react/static/media/romchasuccess.cebb2a1215545ed5c8f6.jpg",
+    "static/media/lvl1.jpg": "/Roma-react/static/media/lvl1.89c9eb21e97be9e2dfdf.jpg",
+    "static/media/lvl3.jpg": "/Roma-react/static/media/lvl3.a2442e8b7056f488b314.jpg",
+    "static/media/lvl2.jpg": "/Roma-react/static/media/lvl2.c0ec1981c2dfe097a3ae.jpg",
+    "static/media/romcha.jpg": "/Roma-react/static/media/romcha.87b0957d185be27966ef.jpg",
+    "static/media/office.jpg": "/Roma-react/static/media/office.6abe97e1119bc640fb37.jpg",
+    "static/media/hata.jpg": "/Roma-react/static/media/hata.429e7473b3634fc9560f.jpg",
+    "static/media/romalogo.svg": "/Roma-react/static/media/romalogo.5e3f3904142f6420673d87cb58d01adf.svg",
+    "index.html": "/Roma-react/index.html",
+    "main.9ae68ce0.css.map": "/Roma-react/static/css/main.9ae68ce0.css.map",
+    "main.683d9bb8.js.map": "/Roma-react/static/js/main.683d9bb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ae68ce0.css",
+    "static/js/main.683d9bb8.js"
+  ]
+}
