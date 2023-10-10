@@ -326,6 +326,7 @@ body::-webkit-scrollbar-track {
     margin-bottom: 15px;
     font-family: Monotype Corsiva;
     color: white;
+    resize: none;
 }
 
 .newpostbutton{

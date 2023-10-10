@@ -4,6 +4,10 @@ import {logo} from '../images'
 import { Link } from 'react-router-dom';
 
 function Header(){
+    
+    const openInNewTab = url => {
+        window.open(url, '_blank', 'noopener,noreferrer');
+    };
 
     return(
         <div className="header" >
@@ -17,7 +21,7 @@ function Header(){
             <Link to="/historysuccess">
                 <button>История успеха</button>
             </Link>
-            <button>ВК</button>
+            <button onClick={() => openInNewTab('https://vk.com/fate_exe')}>ВК</button>
         </div>
         );
 }
